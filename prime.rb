@@ -33,6 +33,8 @@ def prime?(n)
       return true
     end
   end
+  
+  ##################REVISIT FOR BETTER ALGORITHM/ASK INSTRUCTOR
   if n == 105557
     return true
   end
